@@ -4,9 +4,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunthakre&label=Profile%20views&color=0e75b6&style=flat" alt="arjunthakre" /> </p>
 
-- 🌱 I’m currently learning ** Kafka, Docker, Kubernate**
+### 👨‍💻 About Me
 
-- 💬 Ask me about **Java, Backened**
+<img align="left" src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="90" />
+
+- 🌱 I’m currently learning **Kafka, Docker, Kubernetes, and Microservices architecture**  
+- 💬 Ask me about **Java, Spring Boot, ReactJS, REST APIs, and Backend Development**  
+- 💻 I have hands-on experience with **MySQL, Git, Postman, and DevOps basics**  
+- 🧠 I love solving **complex problems, optimizing code, and building scalable systems**  
+- 🚀 I enjoy exploring **new technologies and building full-stack projects**  
+- ⚡ Fun fact: **I am funny and love creating memes for my projects 😄**
 
 - 📫 How to reach me **arjunthakre2022@gmail.com**
 
