@@ -3,6 +3,8 @@
 <h3 align="center">A passionate full stack developer developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunthakre&label=Profile%20views&color=0e75b6&style=flat" alt="arjunthakre" /> </p>
+
 - 🌱 I’m currently learning ** Kafka, Docker, Kubernate**
 
 - 💬 Ask me about **Java, Backened**
