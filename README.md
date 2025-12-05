@@ -1,7 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 <h1 align="center">Hi 👋, I'm Arjun Thakre</h1>
 <h3 align="center">A passionate full stack developer developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunthakre&label=Profile%20views&color=0e75b6&style=flat" alt="arjunthakre" /> </p>
 
