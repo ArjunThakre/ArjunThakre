@@ -6,7 +6,6 @@
 
 ### 👨‍💻 About Me
 
-<img align="left" src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="90" />
 
 - 🌱 I’m currently learning **Kafka, Docker, Kubernetes, and Microservices architecture**  
 - 💬 Ask me about **Java, Spring Boot, ReactJS, REST APIs, and Backend Development**  
